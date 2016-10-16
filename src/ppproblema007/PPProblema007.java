@@ -21,7 +21,7 @@ public class PPProblema007 {
     public static int entradaDato(){
         int km;
         Scanner entrada= new Scanner(System.in);
-        System.out.println("Introduce los Km a convertir");
+        System.out.println("Introduce los Km/h a convertir");
         km=entrada.nextInt(); 
         double res;
         res= km * 0.277778;
