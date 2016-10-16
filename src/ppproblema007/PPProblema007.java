@@ -25,7 +25,7 @@ public class PPProblema007 {
         km=entrada.nextInt(); 
         double res;
         res= km * 0.277778;
-        System.out.println("El resultado es"+ res + "m/s");
+        System.out.println("El resultado es:"+ res + "m/s");
         return km;
     }
 }
